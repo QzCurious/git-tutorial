@@ -92,7 +92,7 @@ git config for `--gloabl` vs pre project
 
 `git <cmd> --help`
 
-`git init`
+`git init` <--
 
 _.git/_
 
@@ -114,7 +114,7 @@ commit
 
 `git commit`
 
-​ a commit is the **changes** to its previous commit
+ a commit is the **changes** to its previous commit
 
 `git show [commit]`
 
